@@ -5,7 +5,7 @@
 	rmdir foldername
 
 # Delete a folder with files
-	rmdir foldername -r
+	rm -r foldername
 	(-r = recursive)
 
 # Rename a folder
